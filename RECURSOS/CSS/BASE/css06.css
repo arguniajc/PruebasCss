@@ -1,0 +1,11 @@
+h1 {
+  color: crimson;
+  font-size: 32px;
+}
+h2,p {
+  color: darkblue;
+}
+.titulo {
+  color: rgb(10, 153, 18);
+  font-size: 32px;
+}

@@ -1,0 +1,41 @@
+h1 {
+  font-size: 2em;
+  color: #ca5858;
+  background-color: #643ab3;
+}
+h2 {
+  font-size: 1.5em;
+  color: #ce1c1c;
+  background-color: #47b930;
+}
+h3 {
+  font-size: 1.2em;
+  color: #4bca8b;
+  background-color: #750d1b;
+}
+h4 {
+  font-size: 1em;
+  color: #643ab3;
+  background-color: #4ad85d;
+}
+h5 {
+  font-size: 0.8em;
+  color: #438a39;
+  background-color: #c77368;
+}
+
+#parrafo {
+  font-size: 1.2em;
+  color: #4bca8b;
+  background-color: #750d1b;
+}
+#introduccion {
+  font-size: 1.2em;
+  color: #643ab3;
+  background-color: #4ad85d;
+}
+.morados {
+  font-size: 1.2em;
+  color: #1daafc;
+  background-color: #2b3f2e;
+}
